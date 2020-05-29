@@ -1,0 +1,23 @@
+Inicio
+1-Limpiar las mesas
+2-Si hay trastes sucios, llevarlos al lavadero
+3- Lavar todos los trastes
+4-Llevar trastes al trastero
+5-Poner los trastes
+6-Limpiar el trastero por fuera
+7-Ordenar la caja de alimentos
+8-Limpiar la estufa
+9-Limpiar la refrigeradora por dentro
+10-Si la refrigeradora tiene cosas innecesarias, sacarlas y botarlas
+11-Limpiar la refirgeradora por fuera
+12-Ir a la sala
+13-Limpiar la computadora
+14-Limpiar el soporte del televisor
+15-Limpiar el televisor
+16-Sacudir los sillones
+17-Barrer
+18-Revisar si hay telas de araña, si hay, limpiarlas
+19-Revisar si hay un trapeador limpio, si no hay, lavarlo
+20-trapear
+21-Lavar el trapeador
+Final
